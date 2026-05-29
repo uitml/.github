@@ -4,6 +4,8 @@ The [UiT Machine Learning Group](https://machine-learning.uit.no) at [UiT The Ar
 
 ## Featured publications 📚
 
+The selection below reflects recent work from the group, spanning top publication venues in both methodology and application domains.
+
 | Year | Title | Venue | Domain | Code |
 | --- | --- | --- | --- | --- |
 | 2026 | [CogniLoad: A synthetic natural language reasoning benchmark with tunable length, intrinsic difficulty, and distractor density](https://openreview.net/forum?id=0Sex2H5Jnn) | ICLR | 🔬 Methods | |
