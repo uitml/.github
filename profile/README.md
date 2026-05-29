@@ -50,12 +50,6 @@ Tutorials and educational material from past editions can be found in our reposi
 
 Group members have access to **Springfield**, our internal GPU-powered Kubernetes compute cluster. The cluster nodes are named after characters from *The Simpsons*, with the cluster itself named after the town of Springfield. Infrastructure specifications and deployment manifests are maintained in the [springfield](https://github.com/uitml/springfield) repository.
 
-## Featured repositories 🧰
-
-| Repository | Description |
-| --- | --- |
-| *(coming soon)* | |
-
 ## Publications 📚
 
 A selection of recent publications from the group, organized by application area. For complete lists see individual faculty profiles ([Jenssen](https://scholar.google.com/citations?user=HiviXjIAAAAJ), [Kampffmeyer](https://scholar.google.com/citations?user=9lDh2UgAAAAJ), [Wickstrøm](https://scholar.google.com/citations?user=gUd35ngAAAAJ), [Godtliebsen](https://scholar.google.com/citations?user=w_MiJVMAAAAJ), [Ricaud](https://scholar.google.fr/citations?user=muGuSyoAAAAJ), [Wetzer](https://scholar.google.com/citations?user=qSc3kA8AAAAJ), [Sharma](https://scholar.google.com/citations?user=9U6CHTIAAAAJ)).
@@ -101,7 +95,3 @@ A selection of recent publications from the group, organized by application area
 | 2025 | Information theory | Information theory | Generalized Cauchy–Schwarz divergence: Efficient estimation and applications in deep learning ([paper](https://arxiv.org/abs/2405.04061)) | |
 
 </details>
-
-## Get in touch 🗣️
-
-Visit our [group website](https://machine-learning.uit.no) for information about members, projects, and publications. If you have questions about any of our repositories or are interested in collaboration, feel free to open a [Discussion](https://github.com/orgs/uitml/discussions).
