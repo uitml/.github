@@ -1,6 +1,6 @@
 # UiT Machine Learning Group
 
-The [UiT Machine Learning Group](https://machine-learning.uit.no) at [UiT The Arctic University of Norway](https://uit.no) conducts both foundational and applied research across machine learning and artificial intelligence. Our work spans core methodology and real-world applications in medicine, marine science, energy, and earth observation. The group leads [Visual Intelligence](https://www.visual-intelligence.no), co-leads [Integreat](https://www.integreat.no) — the Norwegian Centre for Knowledge-Driven Machine Learning — and is involved in [several other projects](https://machine-learning.uit.no).
+The [UiT Machine Learning Group](https://machine-learning.uit.no) at [UiT The Arctic University of Norway](https://uit.no) conducts both foundational and applied research across machine learning and artificial intelligence. Our work spans core methodology and real-world applications in medicine, marine science, energy, and earth observation. The group leads [Visual Intelligence](https://www.visual-intelligence.no), co-leads [Integreat](https://www.integreat.no), and is involved in [numerous other projects](https://machine-learning.uit.no).
 
 ## Featured publications 📚
 
