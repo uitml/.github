@@ -29,7 +29,7 @@ We offer courses in machine learning and related fields at UiT The Arctic Univer
 | --- | --- | --- |
 | FYS-2010 | Image Processing | |
 | FYS-2021 | Machine Learning | [📁 Repository](https://github.com/uitml/MLcourse) |
-| FYS-3012/8012 | Pattern Recognition | |
+| FYS-3012/8012 | Pattern Recognition | [📓 Handbook](https://github.com/Wickstrom/pattern-recognition-handbook) |
 | FYS-3033/8033 | Deep Learning | |
 | FYS-3032/8032 | Health Data Analysis | |
 | — | Generative AI | [📁 Repository](https://github.com/uitml/GenerativeAI_course) |
@@ -45,6 +45,10 @@ We organize the annual [Northern Lights Deep Learning Conference (NLDL)](https:/
 | NLDL 2027 | January 12–14, 2027 |
 
 Tutorials and educational material from past editions can be found in our repositories, such as [GraphMLTutorialNLDL22](https://github.com/uitml/GraphMLTutorialNLDL22).
+
+## Computing infrastructure 🖥️
+
+Group members have access to **Springfield**, our internal GPU-powered Kubernetes compute cluster. The cluster nodes are named after characters from *The Simpsons*, with the cluster itself named after the town of Springfield. Infrastructure specifications and deployment manifests are maintained in the [springfield](https://github.com/uitml/springfield) repository.
 
 ## Featured repositories 🧰
 
