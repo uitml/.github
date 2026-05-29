@@ -22,13 +22,14 @@ The selection below reflects recent work from the group, spanning top publicatio
 | 2025 | [Flatland and beyond: Mutual information across geometries](https://openaccess.thecvf.com/content/ICCV2025W/BEW/html/Wally_Flatland_and_Beyond_Mutual_Information_Across_Geometries_ICCVW_2025_paper.html) | ICCV Workshop | 🔬 Methods | [Code](https://github.com/uitml/FlatlandandBeyond) |
 | 2025 | [Quantifying uncertainty in foraminifera classification: How deep learning compares to human experts](https://www.sciencedirect.com/science/article/pii/S2666544125000413) | AI in Geosciences | ⚡ Energy | |
 | 2025 | [Aggregation of dependent expert distributions in multimodal variational autoencoders](https://proceedings.mlr.press/v267/a-mancisidor25a.html) | ICML | 🔬 Methods | [Code](https://github.com/rogelioamancisidor/codevae) |
+| 2025 | [Tied prototype model for few-shot medical image segmentation](https://link.springer.com/chapter/10.1007/978-3-032-04947-6_62) | MICCAI | 🩺 Medicine | [Code](https://github.com/hjk92g/TPM-FSS) |
 | 2025 | [The conditional Cauchy–Schwarz divergence with applications to time-series data and sequential decision making](https://ieeexplore.ieee.org/abstract/document/10930811/) | IEEE TPAMI | 🔬 Methods | |
-| 2024 | [The 3-billion fossil question: How to automate classification of microfossils](https://www.sciencedirect.com/science/article/pii/S2666544124000212) | AI in Geosciences | ⚡ Energy | |
 | 2024 | [Polar mesospheric summer echo (PMSE) multilayer properties during solar maximum and solar minimum](https://angeo.copernicus.org/articles/42/431/2024/) | Ann. Geophys. | 🛰️ Earth obs. | |
 | 2024 | [Exploring pain reduction through physical activity: A case study of seven fibromyalgia patients](https://www.mdpi.com/2306-5354/11/8/765) | Bioengineering | 🩺 Medicine | |
 | 2024 | [LSNetv2: Improving weakly supervised power line detection with bipartite matching](https://www.sciencedirect.com/science/article/pii/S0957417424006390) | Expert Syst. Appl. | ⚡ Energy | |
 | 2024 | [Interrogating sea ice predictability with gradients](https://ieeexplore.ieee.org/abstract/document/10436675/) | IEEE GRSL | 🛰️ Earth obs. | |
 | 2023 | [Deep semisupervised semantic segmentation in multifrequency echosounder data](https://ieeexplore.ieee.org/abstract/document/10034940/) | IEEE J. Ocean. Eng. | 🌊 Marine | |
+| 2023 | [A contextually supported abnormality detector for maritime trajectories](https://www.mdpi.com/2077-1312/11/11/2085) | J. Mar. Sci. Eng. | 🌊 Marine | |
 
 ## Research themes 🔬
 
