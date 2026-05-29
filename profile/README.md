@@ -4,26 +4,22 @@ The [UiT Machine Learning Group](https://machine-learning.uit.no) at [UiT The Ar
 
 ## Featured publications 📚
 
-For complete lists see individual faculty profiles: [Jenssen](https://scholar.google.com/citations?user=HiviXjIAAAAJ) · [Kampffmeyer](https://scholar.google.com/citations?user=9lDh2UgAAAAJ) · [Wickstrøm](https://scholar.google.com/citations?user=gUd35ngAAAAJ) · [Godtliebsen](https://scholar.google.com/citations?user=w_MiJVMAAAAJ) · [Ricaud](https://scholar.google.fr/citations?user=muGuSyoAAAAJ) · [Wetzer](https://scholar.google.com/citations?user=qSc3kA8AAAAJ) · [Sharma](https://scholar.google.com/citations?user=9U6CHTIAAAAJ)
-
 | Year | Title | Venue | Domain | Code |
 | --- | --- | --- | --- | --- |
 | 2026 | [CogniLoad: A synthetic natural language reasoning benchmark with tunable length, intrinsic difficulty, and distractor density](https://openreview.net/forum?id=0Sex2H5Jnn) | ICLR | 🔬 Methods | |
 | 2026 | [A robust and versatile deep learning model for prediction of the arterial input function in dynamic small animal [18F] FDG PET imaging](https://link.springer.com/article/10.1186/s13550-026-01398-9) | EJNMMI Research | 🩺 Medicine | |
 | 2026 | [Liver, vessel, and tumor segmentation from partially labeled CT and multi-label masked learning](https://proceedings.mlr.press/v307/ostmo26a.html) | NLDL | 🩺 Medicine | |
 | 2026 | [Graph machine learning can estimate drug concentrations in whole blood from forensic screening results](https://doi.org/10.1021/acs.analchem.5c07428) | Anal. Chem. | 🩺 Medicine | [Code](https://github.com/uitml/GNN-for-drug-concentration) |
-| 2026 | [THOR: A versatile foundation model for earth observation climate and society applications](https://arxiv.org/abs/2601.16011) | arXiv | 🛰️ Earth obs. | [Code](https://github.com/FM4CS/THOR) |
 | 2026 | [Reducing manual workload in SAR-based oil spill detection through uncertainty-aware deep learning](https://openreview.net/forum?id=8wgwRsfTuH) | NLDL | 🛰️ Earth obs. | |
-| 2025 | [Reconsidering explicit longitudinal mammography alignment for enhanced breast cancer risk prediction](https://link.springer.com/chapter/10.1007/978-3-032-04937-7_47) | MICCAI | 🩺 Medicine | |
-| 2025 | [Keypoint counting classifiers: Turning vision transformers into self-explainable models without training](https://arxiv.org/abs/2512.17891) | arXiv | 🔬 Methods | |
+| 2025 | [Reconsidering explicit longitudinal mammography alignment for enhanced breast cancer risk prediction](https://link.springer.com/chapter/10.1007/978-3-032-04937-7_47) | MICCAI | 🩺 Medicine | [Code](https://github.com/sot176/Longitudinal_Mammogram_Alignment) |
 | 2025 | [WOODWORK: A deep-learning based framework for woodpecker damage detection in powerline inspection](https://doi.org/10.1016/j.ijepes.2025.110900) | Int. J. Electrical Power | ⚡ Energy | |
 | 2025 | [The Fossil Frontier: An answer to the 3-billion fossil question](https://www.sciencedirect.com/science/article/pii/S2666544125000802) | AI in Geosciences | ⚡ Energy | |
-| 2025 | [Generalized Cauchy–Schwarz divergence: Efficient estimation and applications in deep learning](https://arxiv.org/abs/2405.04061) | Neurocomputing | 🔬 Methods | |
+| 2025 | [Generalized Cauchy–Schwarz divergence: Efficient estimation and applications in deep learning](https://www.sciencedirect.com/science/article/abs/pii/S0925231225015760) | Neurocomputing | 🔬 Methods | |
 | 2025 | [AdaptCMVC: Robust adaptation to incremental views in continual multi-view clustering](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_AdaptCMVC_Robust_Adaption_to_Incremental_Views_in_Continual_Multi-view_Clustering_CVPR_2025_paper.html) | CVPR | 🔬 Methods | |
-| 2025 | [REPEAT: Improving uncertainty estimation in representation learning explainability](https://ojs.aaai.org/index.php/AAAI/article/view/32900) | AAAI | 🔬 Methods | |
+| 2025 | [REPEAT: Improving uncertainty estimation in representation learning explainability](https://ojs.aaai.org/index.php/AAAI/article/view/32900) | AAAI | 🔬 Methods | [Code](https://github.com/Wickstrom/REPEAT) |
 | 2025 | [Flatland and beyond: Mutual information across geometries](https://openaccess.thecvf.com/content/ICCV2025W/BEW/html/Wally_Flatland_and_Beyond_Mutual_Information_Across_Geometries_ICCVW_2025_paper.html) | ICCV Workshop | 🔬 Methods | [Code](https://github.com/uitml/FlatlandandBeyond) |
 | 2025 | [Quantifying uncertainty in foraminifera classification: How deep learning compares to human experts](https://www.sciencedirect.com/science/article/pii/S2666544125000413) | AI in Geosciences | ⚡ Energy | |
-| 2025 | [Aggregation of dependent expert distributions in multimodal variational autoencoders](https://proceedings.mlr.press/v267/a-mancisidor25a.html) | ICML | 🔬 Methods | |
+| 2025 | [Aggregation of dependent expert distributions in multimodal variational autoencoders](https://proceedings.mlr.press/v267/a-mancisidor25a.html) | ICML | 🔬 Methods | [Code](https://github.com/rogelioamancisidor/codevae) |
 | 2025 | [The conditional Cauchy–Schwarz divergence with applications to time-series data and sequential decision making](https://ieeexplore.ieee.org/abstract/document/10930811/) | IEEE TPAMI | 🔬 Methods | |
 | 2024 | [The 3-billion fossil question: How to automate classification of microfossils](https://www.sciencedirect.com/science/article/pii/S2666544124000212) | AI in Geosciences | ⚡ Energy | |
 | 2024 | [Polar mesospheric summer echo (PMSE) multilayer properties during solar maximum and solar minimum](https://angeo.copernicus.org/articles/42/431/2024/) | Ann. Geophys. | 🛰️ Earth obs. | |
